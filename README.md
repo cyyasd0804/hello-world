@@ -1,2 +1,3 @@
 # hello-world
 ...
+begin learning and then begin dying
